@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS certifications, Vue, Python**
 
-- 💬 Ask me about **Lambdas, Nodejs, AWS, Linux, Git**
+- 💬 Ask me about **Lambdas, Nodejs, AWS(Amazon Web Services), Linux, Git, Clean code, Best practices, Clean Arquitecture, Design Patterns**
 
 - 📫 How to reach me **jesus-s_a@outlook.com**
 
