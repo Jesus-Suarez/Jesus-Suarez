@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Software Engineer FullStack</h3>
 
 - 🔭 I’m currently working on [The Palace Company](https://www.thepalacecompany.com/)
+- <a href="[https://linkedin.com/in/https://www.linkedin.com/in/jesus-suarz/](https://github.com/jesussuarzz)" target="blank">Here, you can see my enterprise contributions</a>
+</p>
 
 - 🌱 I’m currently learning **AWS certifications, Vue, Python**
 
